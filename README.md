@@ -1,7 +1,7 @@
 # Chandrayaan-3 ILSA: End-to-End Analysis & Sonification
 
 **Author:** Dr. Satwant Kumar  
-**Date:** January 2025  
+**Date:** June 2025  
 **Version:** 2.0 (Scientifically Vetted)
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
