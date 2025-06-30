@@ -83,7 +83,7 @@ chandrayaan3-ilsa-analysis/
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/chandrayaan3-ilsa-analysis.git
+   git clone https://github.com/satwantkumar/chandrayaan3-ilsa-analysis.git
    cd chandrayaan3-ilsa-analysis
    ```
 
