@@ -350,16 +350,13 @@ This analysis builds upon the outstanding work of:
 - **ISRO Chandrayaan-3 Team** for successful mission execution
 - **ILSA Instrument Team** for providing high-quality calibrated data  
 - **Dr. J. John and colleagues** for the foundational ICARUS 2024 publication
-- **International Lunar Science Community** for continued collaboration
-- **Apollo Seismology Teams** for establishing lunar seismology foundations
-
 ---
 
 ## 📞 Contact & Support
 
 - **Issues:** Please use GitHub Issues for bug reports and feature requests
 - **Discussions:** Use GitHub Discussions for questions and community interaction
-- **Email:** [Add your contact email]
+- **Email:** MyFirstName.Dagar@[G-M-A I-L]
 
 ---
 
