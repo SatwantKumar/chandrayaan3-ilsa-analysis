@@ -369,7 +369,7 @@ If you use this code or analysis in your research, please cite:
   author = {Kumar, Satwant},
   title = {Chandrayaan-3 ILSA: End-to-End Analysis \& Sonification},
   year = {2025},
-  url = {https://github.com/yourusername/chandrayaan3-ilsa-analysis},
+  url = {https://github.com/satwantkumar/chandrayaan3-ilsa-analysis},
   version = {2.0}
 }
 ```
